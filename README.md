@@ -6,7 +6,7 @@ And it gets icons using node package [Open Weather Icons](https://www.npmjs.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![My image](https://octodex.github.com/images/yaktocat.png)
+![My image](https://github.com/Warrior1119/weather/blob/master/screenshot.png)
 
 ## Available Scripts
 
